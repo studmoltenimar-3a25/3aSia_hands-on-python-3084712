@@ -1,6 +1,9 @@
 NAMES = ["John", "Paul", "George", "Ringo"]
 AGES = [20, 21, 22, 23]
-
+ 
+i=0
+while i<len(NAMES):
+  
 JOHN = NAMES[0]
 PAUL = NAMES[1]
 
